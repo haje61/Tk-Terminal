@@ -1,5 +1,8 @@
 Revision history for Perl extension Tk::Terminal.
 
+0.03  Sat Jul 20 2024
+	- added missing file bin/tkterm to tar ball.
+
 0.02  Sat Jul 20 2024
 	- set requirement to version 0.15 of Tk::TextANSIColor.
 	- Added a call to see method at several places

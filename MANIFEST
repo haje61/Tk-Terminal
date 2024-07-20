@@ -1,6 +1,7 @@
+bin/tkterm
 Changes
+lib/Tk/Terminal.pm
 Makefile.PL
 MANIFEST
 README.md
 t/Tk-Terminal.t
-lib/Tk/Terminal.pm

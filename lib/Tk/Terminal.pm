@@ -9,7 +9,7 @@ Tk::Terminal - Running system commands in a Tk::Text widget.
 use strict;
 use warnings;
 use vars qw( $VERSION );
-$VERSION = '0.02';
+$VERSION = '0.03';
 
 use Cwd;
 use Fcntl;
